@@ -1,3 +1,5 @@
+# 請用手機觀看此說明 
+  
 ## 打開chrome，在網址欄打上
 ```
 chrome://bluetooth-internals
