@@ -1,4 +1,4 @@
-# 請用手機觀看此說明 
+３# 請用手機觀看此說明 
   
 ## 打開chrome，在網址欄打上
 ```
@@ -23,3 +23,13 @@ chrome://bluetooth-internals
 
 ## 看到按鈕變成disconnect,代表連線成功
 ![120581](https://user-images.githubusercontent.com/65643745/116778384-2100ef80-aaa4-11eb-8de4-02cf0b6d2a09.jpg)
+
+## 回到這個頁面，按下「Bluetooth Connect」按鈕
+![120582](https://user-images.githubusercontent.com/65643745/116778504-d92e9800-aaa4-11eb-8089-b30e93cdcc0d.jpg)
+
+## 選擇「HC-08」並按配對
+![120587](https://user-images.githubusercontent.com/65643745/116778559-29a5f580-aaa5-11eb-8d80-d5d0a02bee85.jpg)
+
+
+## 看到這句話，代表連線成功
+![image](https://user-images.githubusercontent.com/65643745/116778532-07ac7300-aaa5-11eb-8eba-66f738636188.png)
