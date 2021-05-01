@@ -37,5 +37,10 @@ chrome://bluetooth-internals
 ![image](https://user-images.githubusercontent.com/65643745/116778532-07ac7300-aaa5-11eb-8eba-66f738636188.png)
 
 # Acess port部分
-### 打開參數配置
+### 打開配置參數
 ![image](https://user-images.githubusercontent.com/65643745/116778640-b94ba400-aaa5-11eb-9dbe-8cf799383441.png)
+
+### 串列傳輸數設定為 9600
+<img width="341" alt="未命名" src="https://user-images.githubusercontent.com/65643745/116778686-f31caa80-aaa5-11eb-889a-fd3ded51d669.png">
+
+
