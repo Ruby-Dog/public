@@ -6,3 +6,9 @@ chrome://bluetooth-internals
 
 #### 在左側導覽列選擇device
 ![image](https://user-images.githubusercontent.com/65643745/116778088-805e0000-aaa2-11eb-8287-19899fa217bf.png)
+
+#### 按右上角的Start Scan 開始掃描附近的藍芽裝置
+![image](https://user-images.githubusercontent.com/65643745/116778119-b00d0800-aaa2-11eb-9493-5ec7dc6c4d06.png)
+
+#### 找到名稱為 「HC-08」的裝置，點選 Inspect
+![image](https://user-images.githubusercontent.com/65643745/116778176-fd897500-aaa2-11eb-984a-13f5d1921479.png)
