@@ -2,13 +2,22 @@
 ```
 chrome://bluetooth-internals
 ```
-![image](https://user-images.githubusercontent.com/65643745/116777976-0168c780-aaa2-11eb-803a-0cccd7339b82.png)
+![120575](https://user-images.githubusercontent.com/65643745/116778353-fa42b900-aaa3-11eb-9777-f133a527c22a.jpg)
+
 
 #### 在左側導覽列選擇device
-![image](https://user-images.githubusercontent.com/65643745/116778088-805e0000-aaa2-11eb-8287-19899fa217bf.png)
+![120576](https://user-images.githubusercontent.com/65643745/116778359-04fd4e00-aaa4-11eb-9a62-cc9e3ae82905.jpg)
+
 
 #### 按右上角的Start Scan 開始掃描附近的藍芽裝置
-![image](https://user-images.githubusercontent.com/65643745/116778119-b00d0800-aaa2-11eb-9493-5ec7dc6c4d06.png)
+![120577](https://user-images.githubusercontent.com/65643745/116778366-0d558900-aaa4-11eb-8842-af0693063626.jpg)
+
 
 #### 找到名稱為 「HC-08」的裝置，點選 Inspect
-![image](https://user-images.githubusercontent.com/65643745/116778176-fd897500-aaa2-11eb-984a-13f5d1921479.png)
+![120578](https://user-images.githubusercontent.com/65643745/116778372-15152d80-aaa4-11eb-943a-2a780c4ea4df.jpg)
+
+#### 點選右上角的connect
+![120580](https://user-images.githubusercontent.com/65643745/116778379-1e05ff00-aaa4-11eb-84d4-cfabdec98547.jpg)
+
+#### 看到按鈕變成disconnect,代表連線成功
+![120581](https://user-images.githubusercontent.com/65643745/116778384-2100ef80-aaa4-11eb-8de4-02cf0b6d2a09.jpg)
