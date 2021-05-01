@@ -34,7 +34,8 @@ chrome://bluetooth-internals
 
 
 ### 看到這句話，代表連線成功
-![image](https://user-images.githubusercontent.com/65643745/116778532-07ac7300-aaa5-11eb-8eba-66f738636188.png)
+![image](https://user-images.githubusercontent.com/65643745/116779233-a934c400-aaa7-11eb-88f0-2ecb6c0e4683.png)
+
 
 # Acess port部分
 ### 打開配置參數
