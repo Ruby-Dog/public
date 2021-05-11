@@ -10,8 +10,17 @@ _注意:此網頁程式碼為IOS專用_
 ```
 https://ruby-dog.github.io/bluetooth/ios/
 ```
+將網址貼在搜尋框
 <img width="400" alt="IMG_3091" src="https://user-images.githubusercontent.com/65643745/117819235-eebd7200-b29b-11eb-80ca-5f805277ecbe.PNG">
-<img width="563" alt="IMG_3092" src="https://user-images.githubusercontent.com/65643745/117819264-f715ad00-b29b-11eb-8180-295b0f5fae47.PNG">
-<img width="563" alt="IMG_3093" src="https://user-images.githubusercontent.com/65643745/117819308-009f1500-b29c-11eb-9f67-8cea421dc75d.PNG">
-<img width="563" alt="IMG_3094" src="https://user-images.githubusercontent.com/65643745/117819320-03016f00-b29c-11eb-8135-e76bc038cc30.PNG">
-<img width="563" alt="IMG_3095" src="https://user-images.githubusercontent.com/65643745/117819329-04cb3280-b29c-11eb-84a2-9294ea7ed004.PNG">
+
+
+<img width="400" alt="IMG_3092" src="https://user-images.githubusercontent.com/65643745/117819264-f715ad00-b29b-11eb-8180-295b0f5fae47.PNG">
+
+到網頁之後,點選 Bluetooth Connect
+<img width="400" alt="IMG_3093" src="https://user-images.githubusercontent.com/65643745/117819308-009f1500-b29c-11eb-9f67-8cea421dc75d.PNG">
+
+選擇要使用的裝置  (HC-08)
+<img width="400" alt="IMG_3094" src="https://user-images.githubusercontent.com/65643745/117819320-03016f00-b29c-11eb-8135-e76bc038cc30.PNG">
+
+看到紅框圈起的字,表示連線成功
+<img width="400" alt="IMG_3095" src="https://user-images.githubusercontent.com/65643745/117819329-04cb3280-b29c-11eb-84a2-9294ea7ed004.PNG">
