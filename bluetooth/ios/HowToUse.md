@@ -10,7 +10,7 @@ _注意:此網頁程式碼為IOS專用_
 ```
 https://ruby-dog.github.io/bluetooth/ios/
 ```
-<img width="300" alt="IMG_3091" src="https://user-images.githubusercontent.com/65643745/117819235-eebd7200-b29b-11eb-80ca-5f805277ecbe.PNG">
+<img width="400" alt="IMG_3091" src="https://user-images.githubusercontent.com/65643745/117819235-eebd7200-b29b-11eb-80ca-5f805277ecbe.PNG">
 <img width="563" alt="IMG_3092" src="https://user-images.githubusercontent.com/65643745/117819264-f715ad00-b29b-11eb-8180-295b0f5fae47.PNG">
 <img width="563" alt="IMG_3093" src="https://user-images.githubusercontent.com/65643745/117819308-009f1500-b29c-11eb-9f67-8cea421dc75d.PNG">
 <img width="563" alt="IMG_3094" src="https://user-images.githubusercontent.com/65643745/117819320-03016f00-b29c-11eb-8135-e76bc038cc30.PNG">
