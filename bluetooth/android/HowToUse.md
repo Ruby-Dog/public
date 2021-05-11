@@ -2,7 +2,8 @@ _注意:此網頁程式碼為Android專用_
 
 #### 請務必使用chrome網頁瀏覽器
 #### 點選bluetooth Connect
-![124737](https://user-images.githubusercontent.com/65643745/117824219-e0258980-b2a0-11eb-9404-12ec60e2c2e7.jpg)
+
+<img width="400" alt="IMG_3091" src="https://user-images.githubusercontent.com/65643745/117824219-e0258980-b2a0-11eb-9404-12ec60e2c2e7.jpg">
 
 
 #### 選擇要使用的裝置 (HC-08) , 並按配對
